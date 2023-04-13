@@ -1,0 +1,40 @@
+Some Important Linux Commands for DevOps Engineer:
+✅ List command: ls
+✅ Make directory command: mkdir
+✅ Change directory command: cd
+✅ How to get back into previous directory: cd ..
+✅ To show all the hidden file command: ls -a
+✅ If you want to display more information about file: ls -ltr
+✅ If you want to display more information about hidden file: ls -al
+✅ How to get into previous directory: cd ../folder name
+✅ This command show file in sub-directory: ls -R
+✅ If you want to display the content of a file: cat
+✅ If you want to know more information about command: man
+✅ If you want to translate lower case to upper case: cat two.txt | a-z A-Z > file1.txt
+✅ If you want to make directory inside directory : mkdir folder/folder1
+✅ If you want to create middle directory between two directory: mkdir -p folder/middle/folder1
+✅ How to create file: touch file name
+✅ How to create file inside directory: touch folder name/file name
+✅ How to copy the file: cp
+✅ How to move the file : mv
+✅ How to delete file: rm file name or rm -rf file name
+✅ How to delete folder: rm -R folder name
+✅ Display free disk space: df
+✅ Display disk usage statistics: du
+✅ If you want to view first few line of any file: head file name
+✅ If you want to view last few line of any file: tail file name
+✅ If you want to locate the file: locate "*.txt"
+✅ If you want to check file permission: ls -l file name
+✅ If you want to check the owner: whoami
+✅ If you want to check name exit inside the file: grep
+✅ If you want to find history of a file: history
+✅ If you want to download something: wget (copy paste the url)
+✅ If you want to check what are the process are runnning and cpu usage: top
+✅ If you want to find ip address: hostname -i
+✅ If you want to check operating system name: uname
+✅ If you want to check architecture: uname -o
+✅ If you want to check kernel version: uname -r
+✅ Information about cpu details: lscpu 
+✅ If you want to check ip address for domain: nslookup
+✅ If you want to check list of open file: lsof
+✅ If you want to check active port: netstat
